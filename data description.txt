@@ -1,0 +1,32 @@
+data contains : It contains 30 features with the shape of (107150 , 30)
+
+ 1- label: labels of data (rumor , non_rumor)
+ 2- tweet_id: unique identifier for the tweet
+ 3- userid: unique identifier for the user who posted the tweet
+ 4- tweet_length: number of characters in the tweet
+ 5- tweet_contains_mention: whether the tweet mentions or not
+ 6- tweet_contains_URL: whether the tweet contains a link
+ 7- tweet_contains_hashtag: whether the tweet contains a hashtag
+ 8- tweet_is_retweet: whether the tweet is retweeted
+ 9- tweet_contains_multimedia: whether the tweet includes an image, video, or other
+10- Tweet_contains_NSFW_content: whether the tweet contains Not Safe For Work content
+11- tweet_contains_question_marks: whether the tweet contains question marks
+12- tweet_sentiment: overall sentiment of the tweet (positive, negative, neutral)
+13- tweet_contains_exclamation: whether the tweet contains exclamation mark
+14- tweet_contains_happy_smileys: whether the tweet contains happy emotions
+15- tweet_contains_sad_smileys: whether the tweet contains sad emoticons
+16- tweet_has_specific_words: whether the tweet contains a specific set of words
+17- Authors_hasURL_in_his_home_page: whether the user who posted the tweet has a URL listed on their profile page
+18- The_number_of_favorites: number of times the tweet has been favorited
+19- Is_Author_Credible: whether the user who posted the tweet is considered credible or not
+20- Number_of_followers: number of users who follow the tweet author
+21- Number_of_following: number of users the tweet author follows
+22- Number_of_retweets: number of times the tweet author's tweets have been retweeted
+23- Reputaion_Score: score assigned to the user's reputation based on their activity or profile information
+24- Is_authors_has_description: whether the user has a description included in their profile
+25- Author_has_Notification: whether has notifications enabled on their account
+26- Author_followed_by_credibleuser: whether the user followed by at least one credible user
+27- Time_span: number of years sence the user opeded an acount
+28- listed_count: number of Twitter lists the tweet is included in
+29- Number_of_tweet_posted: Total number of tweets posted by user
+30- User_effect: float number descripe the user effects on ather
