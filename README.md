@@ -6,11 +6,11 @@ This project aims to build a machine learning model capable of detecting rumors 
 ---------------------------------
 ## Steps Involved:
 1. Data Collection:
-The dataset was gathered from various Twitter sources, including both rumor and non-rumor tweets.
+- The dataset was gathered from various Twitter sources, including both rumor and non-rumor tweets.
 
 2. Data Preprocessing:
-I independently handled data preprocessing to ensure the dataset was clean and suitable for training. This involved:
+- I independently handled data preprocessing to ensure the dataset was clean and suitable for training. This involved:
 Handling missing data.
-- Removing duplicates and irrelevant information.
-- Tokenizing and normalizing the text data.
-- Removing stop words and applying stemming/lemmatization.
+ - Removing duplicates and irrelevant information.
+ - Tokenizing and normalizing the text data.
+ - Removing stop words and applying stemming/lemmatization.
